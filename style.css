@@ -3,7 +3,8 @@ html {
 }
 
 body {
-  background-image: url ("https://github.com/rhondarivas/biosite/pinkbkg.jpg");
+  background-color: rgb(218, 144, 181);
+  opacity: 100;
 }
 
 p {
